@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sqlDB</string>
+    <string name="edit_name">имя</string>
+    <string name="edit_name_celebration">название праздника</string>
+    <string name="date_celepration">дата праздника</string>
+    <string name="time_allarm">время напоминания</string>
+    <string name="send_sms">отправить смс авто</string>
+    <string name="number_tell">номер телефона</string>
+    <string name="back">назад</string>
+    <string name="add">добавить</string>
+    <string name="edit_congratulation">текст поздравление</string>
+    <string name="switch_congratulation">выбрать поздравление</string>
+    <string name="enter_text_congratulation">введите текст поздравления</string>
+</resources>
